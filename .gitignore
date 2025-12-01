@@ -1,0 +1,12 @@
+# Python Bytecode files
+*.pyc
+__pycache__/
+
+# MySQL config
+*.sql
+
+# Log files
+*.log
+
+# Virtual environment
+env/
